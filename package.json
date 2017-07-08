@@ -1,0 +1,33 @@
+{
+  "author": {
+    "name": "Todd Lucas",
+    "email": "https://github.com/toddlucas"
+  },
+  "dependencies": {},
+  "description": "TypeScript definitions for isomorphic-fetch",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a21717624cde9a48c2db53a4e500fc5c32a99bbc",
+    "tarball": "https://registry.npmjs.org/@types/isomorphic-fetch/-/isomorphic-fetch-0.0.30.tgz"
+  },
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "name": "@types/isomorphic-fetch",
+  "optionalDependencies": {},
+  "readme": "# Installation\r\n> `npm install --save @types/isomorphic-fetch`\r\n\r\n# Summary\r\nThis package contains type definitions for isomorphic-fetch (https://github.com/matthew-andrews/isomorphic-fetch).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/isomorphic-fetch\r\n\r\nAdditional Details\r\n * Last updated: Thu, 25 Aug 2016 16:56:06 GMT\r\n * File structure: Mixed\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: Body, Headers, Request, RequestCache, RequestContext, RequestCredentials, RequestMode, ResponseType, fetch\r\n\r\n# Credits\r\nThese definitions were written by Todd Lucas <https://github.com/toddlucas>.\r\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typings": "index.d.ts",
+  "version": "0.0.30"
+}
